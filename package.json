@@ -1,9 +1,9 @@
 {
-  "name": "@cloud-ui/icons",
-  "version": "1.0.0",
+  "name": "@cloudui-design/icons",
+  "version": "1.0.1",
   "description": "Cloud-UI Iconfont",
   "scripts": {
-    "build": "gulp iconfont"
+    "compile": "gulp iconfont"
   },
   "repository": {
     "type": "git",
