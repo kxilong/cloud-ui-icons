@@ -10,7 +10,6 @@
     "url": "git@gitee.com:mderp/cloud-ui-icons.git"
   },
   "keywords": [],
-  "author": "",
   "license": "MIT",
   "devDependencies": {
     "gulp": "^4.0.2",
